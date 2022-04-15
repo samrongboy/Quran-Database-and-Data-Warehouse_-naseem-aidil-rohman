@@ -24,7 +24,7 @@ the process
  
  4.7 How many words “alif lam mim” are there in the Quran?
  
- 4.8
+ 4.8 Choose translations in different languages of the Quran (limit 5)
  
  4.9 What is the first surah in the quran?
  
