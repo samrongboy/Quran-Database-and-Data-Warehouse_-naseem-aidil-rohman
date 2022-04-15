@@ -3,6 +3,7 @@ This project is part of Big data and data warehouse course. Which is managing da
 Usability, The data set consists of Ayah Quran and language translation in ASEAN countries. Due to the difficult retrieve data quote obstacles. That's causing us get some information for Asian languages. which consists of information in Thai, English, Malay, Indonesian and Cambodian language which has the extension csv file.csv
 
 the process
+
 1.insert data to PostgreSql
 2.Crate table Arabic quran_surah and translate.
 3.Linkage table arabic,quran_surah and translation
