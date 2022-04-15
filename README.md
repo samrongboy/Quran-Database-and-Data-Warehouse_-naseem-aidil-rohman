@@ -11,7 +11,8 @@ the process
 3.Linkage table arabic,quran_surah and translation.
 
 4.create question that we need to know that are about quran
- 4.1 How many  sujdah are there in al-quran?
+
+4.1 How many  sujdah are there in al-quran?
  
  4.2 How many surah less than 10 verses (ayah) in al-quran?
  
