@@ -7,13 +7,13 @@ the process
 2.Crate table Arabic quran_surah and translate.
 3.Linkage table arabic,quran_surah and translation
 4.create question that we need to know that are about quran
-4.1 How many  sujdah are there in al-quran?
-4.2 How many surah less than 10 verses (ayah) in al-quran?
-4.3 How many surah more than 100 verses (ayah) in al-quran?
-4.4
-4.5
-4.6 How many words “alif lam mim” are there in the Quran?
-4.7 How many words “alif lam mim” are there in the Quran?
-4.8
-4.9
-4.10
+ 4.1 How many  sujdah are there in al-quran?
+ 4.2 How many surah less than 10 verses (ayah) in al-quran?
+ 4.3 How many surah more than 100 verses (ayah) in al-quran?
+ 4.4
+ 4.5
+ 4.6 How many words “alif lam mim” are there in the Quran?
+ 4.7 How many words “alif lam mim” are there in the Quran?
+ 4.8
+ 4.9
+ 4.10
